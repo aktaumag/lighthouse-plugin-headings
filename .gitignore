@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Логи
+logs/
+*.log
+
+# Отчёты покрытия тестов
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Скомпилированные файлы (если будут)
+dist/
+build/
