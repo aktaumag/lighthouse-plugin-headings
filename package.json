@@ -1,0 +1,19 @@
+{
+  "name": "lighthouse-plugin-headings",
+  "version": "1.0.0",
+  "description": "wSEO.pw Lighthouse plugin for custom heading audits",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Kozhevnikov",
+  "license": "MIT",
+  "type": "commonjs",
+  "peerDependencies": {
+    "lighthouse": "^12.0.0"
+  },
+  "devDependencies": {
+    "lighthouse": "^12.0.0"
+  }
+}
